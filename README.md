@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Mesail]
 
-![Persona Page](https://ahsen17.github.io/)
+[Persona Page](https://ahsen17.github.io/)
 
 ## 🛠️ Tech Stack
 
