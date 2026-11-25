@@ -1,11 +1,18 @@
-# 👋 Hi, I'm [弥塞尔_Mesail]
+![Profile views](https://komarev.com/ghpvc/?username=Ahsen17)
 
-[个人主页 / Persona Page](https://mesail.site/)
+## 👋 Hi there, I'm Mesail!
 
-## 🛠️ 技术栈 / Tech Stack
+<a href="https://github.com/Ahsen17" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a><a href="mailto:ahsenedwrad@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a><a href="https://mesail.site" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Page" />
+</a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-1E558C?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<hr/>
 
-*脑瓜种草 / Grass on brain* 🌿
+- Currently working at llm vutuber.
+- Built [binomic](https://github.com/Ahsen17/binomic), a lightweight, native asynchronous task framework for Python.
+
+Now self-employed, working hard on agent-based vtuber live stream.
