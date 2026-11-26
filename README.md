@@ -12,7 +12,7 @@
 
 <hr/>
 
-- Currently working at llm vutuber.
+- Currently working at llm vtuber.
 - Built [binomic](https://github.com/Ahsen17/binomic), a lightweight, native asynchronous task framework for Python.
 
 Now self-employed, working hard on agent-based vtuber live stream.
